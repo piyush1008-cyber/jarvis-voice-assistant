@@ -1,0 +1,12 @@
+streamlit
+opencv-python
+deepface
+pyttsx3
+SpeechRecognition
+sounddevice
+numpy
+scipy
+requests
+pypdf
+sentence-transformers
+tf-keras
